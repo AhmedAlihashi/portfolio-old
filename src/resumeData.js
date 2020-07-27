@@ -82,7 +82,7 @@ let resumeData = {
       description:
         "This is an index of all the characters within the popular video game/tv series Pokémon.",
       imgurl:
-        "https://lh3.googleusercontent.com/proxy/GXgnfTBVyTNf074-TxQ4B7kvgIlYgT_-onjMqX6vu3kZvpUdm46YEtCgkSz-y4-zNm-hlLoGjQ5bBXNCA_aiHgiUCFkKXqPayT_zq2bM",
+        "https://lh3.googleusercontent.com/proxy/qgJZdI9BgmCngMcHGxHhsQq69ToB5B0ncdXLZmwky92RUtn8C_aEyTwUyTxzjKC_9yiyoGdUt-Txv1IwKYqKscbBjCebBfevQgtNWPBj",
       repourl: "https://github.com/AhmedAlihashi/pokedex",
     },
     {
