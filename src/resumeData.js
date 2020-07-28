@@ -81,39 +81,35 @@ let resumeData = {
       name: "Pokedex",
       description:
         "This is an index of all the characters within the popular video game/tv series Pokémon.",
-      imgurl:
-        "https://lh3.googleusercontent.com/proxy/qgJZdI9BgmCngMcHGxHhsQq69ToB5B0ncdXLZmwky92RUtn8C_aEyTwUyTxzjKC_9yiyoGdUt-Txv1IwKYqKscbBjCebBfevQgtNWPBj",
+      imgurl: `${require("./icons/pokeball.png")}`,
       repourl: "https://github.com/AhmedAlihashi/pokedex",
     },
     {
       name: "Podcast App",
       description:
         "This is a fullstack React Native application made for both IOS & Android. The app uses Google Firebase as a database and storage solution.",
-      imgurl:
-        "https://www.graphicsprings.com/filestorage/stencils/292293fc3cdb43ebca3e8e96f7e10ca9.png?width=500&height=500",
+      imgurl: `${require("./icons/mic.png")}`,
       repourl: "https://github.com/AhmedAlihashi/Podcast-App",
     },
     {
       name: "React Desktop App",
       description:
         "The purpose of the app is to provide a YouTube like experience without opening a browser.",
-      imgurl:
-        "https://upload.wikimedia.org/wikipedia/commons/9/91/Electron_Software_Framework_Logo.svg",
+      imgurl: `${require("./icons/electron.svg")}`,
       repourl: "https://github.com/AhmedAlihashi/Slang",
     },
     {
       name: "Contact List",
       description:
         "This is just a simple showcase of the functionality of Redux within React",
-      imgurl: "https://www.svgrepo.com/show/10865/santa-list.svg",
+      imgurl: `${require("./icons/list.svg")}`,
       repourl: "https://github.com/AhmedAlihashi/contact-list",
     },
     {
       name: "Power Lv",
       description:
         "The purpose of this app is to track the fitness progress of a user and compare current progress with friends.",
-      imgurl:
-        "https://static.wixstatic.com/media/85fbc9_ac56f6cfadf04a56be0ebbc930038594~mv2_d_4167_4167_s_4_2.png/v1/fill/w_254,h_186,al_c,q_85,usm_0.66_1.00_0.01/level%20up.webp",
+      imgurl: `${require("./icons/level up.webp")}`,
       repourl: "https://github.com/AhmedAlihashi/PowerLV",
     },
   ],
