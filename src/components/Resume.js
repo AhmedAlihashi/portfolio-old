@@ -21,16 +21,17 @@ export default class Resume extends Component {
                       <h6>{item.jobTitle}</h6>
 
                       <p className="info">
+                        <em className="date">
+                          {item.MonthOfStarting} {item.YearOfStarting} -{" "}
+                          {item.MonthOfLeaving} {item.YearOfLeaving}
+                        </em>
+                        <br />
                         <span>&bull;</span> {item.specialization}
                         <br />
                         <span>&bull;</span> {item.specialization2}
                         <br />
                         <span>&bull;</span> {item.specialization3}
                         <br />
-                        <em className="date">
-                          {item.MonthOfStarting} {item.YearOfStarting} -{" "}
-                          {item.MonthOfLeaving} {item.YearOfLeaving}
-                        </em>
                       </p>
                     </div>
                   </div>
