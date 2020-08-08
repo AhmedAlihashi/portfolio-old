@@ -94,7 +94,7 @@ let resumeData = {
       name: "React Desktop App",
       description:
         "The purpose of the app is to provide a YouTube like experience without opening a browser.",
-      imgurl: `${require("./icons/electron.svg")}`,
+      imgurl: `https://media3.giphy.com/media/kAuLRq4MpsVzyIWNpN/giphy.gif?cid=ecf05e4773ips7ikcjvvlpdlak02hq6cm74te4vs54f8opmd&rid=giphy.gif`,
       repourl: "https://github.com/AhmedAlihashi/Slang",
     },
     {
