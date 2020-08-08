@@ -80,14 +80,14 @@ let resumeData = {
       name: "Pokedex",
       description:
         "This is an index of all the characters within the popular video game/tv series Pokémon.",
-      imgurl: `${require("./icons/squirtleStep.gif")}`,
+      imgurl: `https://media0.giphy.com/media/WytSQL7115G6uPwDwK/giphy.gif?cid=ecf05e47d7bod3x4hh3rz44a9ecq07c1k5v527sppviek7ph&rid=giphy.gif`,
       repourl: "https://github.com/AhmedAlihashi/pokedex",
     },
     {
       name: "Podcast App",
       description:
         "This is a fullstack React Native application made for both IOS & Android. The app uses Google Firebase as a database and storage solution.",
-      imgurl: `${require("./icons/mic.png")}`,
+      imgurl: `${"https://media2.giphy.com/media/Y3eGW1HeYAGh2ztp8d/giphy.gif?cid=ecf05e479fxoxe9b17dyb6su14ylt6gvzxmt6ruvf9vydw92&rid=giphy.gif"}`,
       repourl: "https://github.com/AhmedAlihashi/Podcast-App",
     },
     {

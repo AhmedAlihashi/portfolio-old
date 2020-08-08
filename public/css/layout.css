@@ -231,8 +231,8 @@ ul#nav li.current a {
 }
 #about .profile-pic {
   position: relative;
-  width: 120px;
-  height: 120px;
+  width: 150px;
+  height: 150px;
   border-radius: 100%;
 }
 #about .contact-details {
@@ -263,7 +263,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #resume {
-  background: #fff;
+  background: #e8e8e8;
   padding-top: 90px;
   padding-bottom: 72px;
   overflow: hidden;
@@ -644,7 +644,7 @@ ul#nav li.current a {
 /* ------------------------------------------------------------------ */
 
 #portfolio {
-  background: #ebeeee;
+  background: #a8a8a8;
   padding-top: 90px;
   padding-bottom: 60px;
 }
