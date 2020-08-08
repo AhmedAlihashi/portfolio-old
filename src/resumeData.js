@@ -80,7 +80,7 @@ let resumeData = {
       name: "Pokedex",
       description:
         "This is an index of all the characters within the popular video game/tv series Pokémon.",
-      imgurl: `${require("./icons/pokeball.png")}`,
+      imgurl: `${require("./icons/squirtleStep.gif")}`,
       repourl: "https://github.com/AhmedAlihashi/pokedex",
     },
     {
