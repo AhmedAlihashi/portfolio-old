@@ -70,7 +70,7 @@ export default class Resume extends Component {
                 src="https://img.icons8.com/color/96/000000/javascript.png"
               />
               <p style={{ font: "inherit", fontSize: 12 }}>
-                Git, Github, Html, Css & Javascript
+                Git, Github, Html, Css & JavaScript
               </p>
             </div>
 
