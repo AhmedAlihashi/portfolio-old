@@ -19,7 +19,13 @@ export default class Porfolio extends Component {
                     <div className="columns portfolio-item">
                       <div
                         className="item-wrap"
-                        style={{ backgroundColor: "transparent" }}
+                        style={{
+                          backgroundColor: "silver",
+                          boxShadow: "10px 10px 7px gray",
+                          minHeight: 200,
+                          borderRadius: 22,
+                          padding: 20,
+                        }}
                       >
                         <a
                           href={item.repourl}
