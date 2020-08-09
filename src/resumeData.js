@@ -87,7 +87,7 @@ let resumeData = {
       name: "Podcast App",
       description:
         "This is a fullstack React Native application made for both IOS & Android. The app uses Google Firebase as a database and storage solution.",
-      imgurl: `${"https://media2.giphy.com/media/Y3eGW1HeYAGh2ztp8d/giphy.gif?cid=ecf05e479fxoxe9b17dyb6su14ylt6gvzxmt6ruvf9vydw92&rid=giphy.gif"}`,
+      imgurl: `https://media3.giphy.com/media/VbboyCHmoUh1ulG41I/giphy.gif`,
       repourl: "https://github.com/AhmedAlihashi/Podcast-App",
     },
     {
@@ -101,14 +101,14 @@ let resumeData = {
       name: "Contact List",
       description:
         "This is just a simple showcase of the functionality of Redux within React",
-      imgurl: `${require("./icons/list.svg")}`,
+      imgurl: `https://media0.giphy.com/media/fw316AXmjO0fQuecVV/giphy.gif`,
       repourl: "https://github.com/AhmedAlihashi/contact-list",
     },
     {
       name: "Power Lv",
       description:
         "The purpose of this app is to track the fitness progress of a user and compare current progress with friends.",
-      imgurl: `${require("./icons/level up.webp")}`,
+      imgurl: `https://media.giphy.com/media/1eEH74omQufGNLIywJ/source.gif`,
       repourl: "https://github.com/AhmedAlihashi/PowerLV",
     },
   ],

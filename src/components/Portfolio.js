@@ -20,11 +20,17 @@ export default class Porfolio extends Component {
                       <div
                         className="item-wrap"
                         style={{
-                          backgroundColor: "silver",
-                          boxShadow: "10px 10px 7px gray",
-                          minHeight: 200,
-                          borderRadius: 22,
-                          padding: 20,
+                          alignItems: "center",
+                          backgroundColor: "#a8a8a8",
+                          boxShadow:
+                            "12px 12px 16px 0 rgba(0, 0, 0, 0.25), -8px -8px 12px 0 rgba(255, 255, 255, 0.3)",
+                          borderRadius: "50px",
+                          display: "flex",
+                          padding: 5,
+                          justifyContent: "center",
+                          marginRight: "4rem",
+                          height: "200px",
+                          width: "200px",
                         }}
                       >
                         <a
