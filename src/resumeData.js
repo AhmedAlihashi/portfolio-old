@@ -56,12 +56,12 @@ let resumeData = {
     {
       skillname: "JavaScript",
     },
-    // {
-    //   skillname: "MongoDB",
-    // },
-    // {
-    //   skillname: "Express",
-    // },
+    {
+      skillname: "MongoDB",
+    },
+    {
+      skillname: "Express",
+    },
     {
       skillname: "React",
     },
@@ -76,6 +76,13 @@ let resumeData = {
     },
   ],
   portfolio: [
+    {
+      name: "Simple Store",
+      description:
+        "This web app was built/deployed to demonstrate the functionality of the MERN (MongoDB, Express, React, Node.js) stack.",
+      imgurl: `https://media3.giphy.com/media/8cdbH0l0s4gShDhLzl/giphy.gif?cid=ecf05e473b00jv82coinwmbd4e67k0rwjkhtbyvwr72zr2r5&rid=giphy.gif`,
+      repourl: "https://github.com/AhmedAlihashi/Simple-Storefront",
+    },
     {
       name: "Pokedex",
       description:
