@@ -56,12 +56,12 @@ let resumeData = {
     {
       skillname: "JavaScript",
     },
-    {
-      skillname: "MongoDB",
-    },
-    {
-      skillname: "Express",
-    },
+    // {
+    //   skillname: "MongoDB",
+    // },
+    // {
+    //   skillname: "Express",
+    // },
     {
       skillname: "React",
     },

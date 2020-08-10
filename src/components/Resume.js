@@ -105,21 +105,21 @@ export default class Resume extends Component {
                 alt="node.js"
                 src="https://img.icons8.com/color/96/000000/nodejs.png"
               />
-              <img
+              {/* <img
                 alt="mongoDB"
                 src="https://img.icons8.com/color/96/000000/mongodb.png"
-              />
+              /> */}
               <img
                 alt="firebase"
                 src="https://img.icons8.com/color/96/000000/firebase.png"
               />
-              <img
+              {/* <img
                 alt="express"
                 style={{ height: 80, margin: 5 }}
                 src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png"
-              />
+              /> */}
               <p style={{ font: "inherit", fontSize: 12 }}>
-                NodeJs, MongoDB, Google Firebase, Express
+                NodeJs Google Firebase
               </p>
             </div>
             <div>
