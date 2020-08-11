@@ -77,13 +77,6 @@ let resumeData = {
   ],
   portfolio: [
     {
-      name: "Simple Store",
-      description:
-        "This web app was built/deployed to demonstrate the functionality of the MERN (MongoDB, Express, React, Node.js) stack.",
-      imgurl: `https://media3.giphy.com/media/8cdbH0l0s4gShDhLzl/giphy.gif?cid=ecf05e473b00jv82coinwmbd4e67k0rwjkhtbyvwr72zr2r5&rid=giphy.gif`,
-      repourl: "https://github.com/AhmedAlihashi/Simple-Storefront",
-    },
-    {
       name: "Pokedex",
       description:
         "This is an index of all the characters within the popular video game/tv series Pokémon.",
@@ -96,6 +89,13 @@ let resumeData = {
         "This is a fullstack React Native application made for both IOS & Android. The app uses Google Firebase as a database and storage solution.",
       imgurl: `https://media3.giphy.com/media/VbboyCHmoUh1ulG41I/giphy.gif`,
       repourl: "https://github.com/AhmedAlihashi/Podcast-App",
+    },
+    {
+      name: "Simple Store",
+      description:
+        "This web app was built/deployed to demonstrate the functionality of the MERN (MongoDB, Express, React, Node.js) stack.",
+      imgurl: `https://media3.giphy.com/media/8cdbH0l0s4gShDhLzl/giphy.gif?cid=ecf05e473b00jv82coinwmbd4e67k0rwjkhtbyvwr72zr2r5&rid=giphy.gif`,
+      repourl: "https://github.com/AhmedAlihashi/Simple-Storefront",
     },
     {
       name: "React Desktop App",
