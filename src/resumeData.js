@@ -90,12 +90,20 @@ let resumeData = {
       imgurl: `https://media3.giphy.com/media/VbboyCHmoUh1ulG41I/giphy.gif`,
       repourl: "https://github.com/AhmedAlihashi/Podcast-App",
     },
+
     {
       name: "Simple Store",
       description:
         "This web app was built/deployed to demonstrate the functionality of the MERN (MongoDB, Express, React, Node.js) stack.",
       imgurl: `https://media3.giphy.com/media/8cdbH0l0s4gShDhLzl/giphy.gif?cid=ecf05e473b00jv82coinwmbd4e67k0rwjkhtbyvwr72zr2r5&rid=giphy.gif`,
       repourl: "https://github.com/AhmedAlihashi/Simple-Storefront",
+    },
+    {
+      name: "Billboard Rankings Tracker",
+      description:
+        "This desktop Application queries billboard for either its Top 200 Greatest Albums of All-Time, or its weekly Hot 100 (based on week entered).",
+      imgurl: `https://media1.giphy.com/media/xlMtfovxvoDlkTWQYz/giphy.gif`,
+      repourl: "https://github.com/AhmedAlihashi/billboarders",
     },
     {
       name: "React Desktop App",
