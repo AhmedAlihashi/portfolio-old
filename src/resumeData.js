@@ -77,6 +77,13 @@ let resumeData = {
   ],
   portfolio: [
     {
+      name: "Global Covid-19 Tracker",
+      description:
+        "This website shows a snapshot of the current global pandemic (Covid-19) by country.",
+      imgurl: `https://media3.giphy.com/media/Wpwq3jVvIBK9pVbQ5c/giphy.gif`,
+      repourl: "https://github.com/AhmedAlihashi/covid-19-tracker",
+    },
+    {
       name: "Pokedex",
       description:
         "This is an index of all the characters within the popular video game/tv series Pokémon.",
