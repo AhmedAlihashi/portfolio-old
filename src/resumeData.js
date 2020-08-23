@@ -77,6 +77,13 @@ let resumeData = {
   ],
   portfolio: [
     {
+      name: "The New York Times Snapshot",
+      description:
+        "This is an app that displays the most viewed,shared and emailed articles of the last 30 days from The New York Times using their api.",
+      imgurl: `https://media3.giphy.com/media/kI91JqYXz3I8DFs5fx/giphy.gif`,
+      repourl: "https://github.com/AhmedAlihashi/nytimes",
+    },
+    {
       name: "Global Covid-19 Tracker",
       description:
         "This website shows a snapshot of the current global pandemic (Covid-19) by country.",
