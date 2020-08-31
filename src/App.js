@@ -11,9 +11,7 @@ import resumeData from "./resumeData";
 class App extends Component {
   render() {
     return (
-      <Scrollbars
-        style={{ width: "100vw", height: "100vh", textAlign: "center" }}
-      >
+      <Scrollbars style={{ width: "100vw", height: "100vh" }}>
         <Header resumeData={resumeData} />
         <About resumeData={resumeData} />
         <Resume resumeData={resumeData} />
