@@ -77,6 +77,13 @@ let resumeData = {
   ],
   portfolio: [
     {
+      name: "Noted",
+      description:
+        "This project is a note taking application that uses Google Firebase Auth to provide user authentication and Firestore as a database solution.",
+      imgurl: `https://media3.giphy.com/media/JmJlebKKwiJYmmpQGZ/giphy.gif?cid=ecf05e47uochwyhgvl4pqz1yg882t1clco02jbkwa36m29xt&rid=giphy.gif`,
+      repourl: "https://github.com/AhmedAlihashi/noted",
+    },
+    {
       name: "The New York Times Snapshot",
       description:
         "This is an app that displays the most viewed,shared and emailed articles of the last 30 days from The New York Times using their api.",
