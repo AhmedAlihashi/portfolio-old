@@ -77,6 +77,13 @@ let resumeData = {
   ],
   portfolio: [
     {
+      name: "Blog App",
+      description:
+        "This project uses React Native to display the contents of a blog and Electron to act as the content managemnet system.",
+      imgurl: `https://i.imgur.com/1irEscM.gif`,
+      repourl: "https://github.com/AhmedAlihashi/blog",
+    },
+    {
       name: "Noted",
       description:
         "This project is a note taking application that uses Google Firebase Auth to provide user authentication and Firestore as a database solution.",
