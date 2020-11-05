@@ -76,12 +76,19 @@ let resumeData = {
     },
   ],
   portfolio: [
-    // {
-    //   name: "Reflex Studios",
-    //   description: "This is the ios app version of reflexstudios.ca",
-    //   imgurl: `https://media3.giphy.com/media/VgTtXyj5YjVFieCYM2/giphy.gif?cid=ecf05e47b295fb1ad6aa3693c1550648ff1ce9fab0cf1edc&rid=giphy.gif`,
-    //   repourl: "https://apps.apple.com/us/app/reflex-studios/id1536357645",
-    // },
+    {
+      name: "Our Ends for Android",
+      description: " This is the ios app version of ourends.ca",
+      imgurl: `https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif`,
+      repourl:
+        "https://play.google.com/store/apps/details?id=com.ourends.ourendsapp",
+    },
+    {
+      name: "Our Ends for ios",
+      description: "This is the ios app version of ourends.ca",
+      imgurl: `https://media.giphy.com/media/3og0IPZcpT7hyEZ7nW/giphy.gif`,
+      repourl: "https://apps.apple.com/us/app/our-ends/id1537892808",
+    },
     {
       name: "Blog App",
       description:
